@@ -14,4 +14,4 @@ El codi font del projecte es troba al repositori privat de GitLab,
 a la branca principal `main`:
 
 👉 https://gitlab.com/projecte2_grup4/projecte2_grup4
-(en Zip també)
+(zip disponible per descarregar al repositori)
